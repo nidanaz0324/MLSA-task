@@ -30,9 +30,7 @@ const siteProps = {
   gitHub: "nidanaz0324",
   instagram: "nidanaz0324",
   linkedIn: "nida-naz-0b3075254",
-  medium: "",
-  twitter: "",
-  youTube: "",
+  medium: "English",
 };
 
 const primaryColor = "#4E567E";
